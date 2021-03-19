@@ -1,0 +1,2 @@
+
+To run wifi main change the name of main to main_bt.cpp and rename main_wifi to main.cpp and viceversa. 
