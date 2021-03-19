@@ -291,6 +291,6 @@ void loop() {
 
 ## Referencia
 
- https://github.com/PauAnton/Practica1
+ https://github.com/PauAnton/p3
 
 
